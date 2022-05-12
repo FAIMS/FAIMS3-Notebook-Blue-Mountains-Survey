@@ -9,7 +9,7 @@ The notebook has been designed for field survey of the historic mining heritage 
 This module was co-developed by Penny Crook, Shawn Ross, Bec Parkes, Fiona Leslie and Susan Lupack. It is based on an earlier FAIMS module (https://github.com/FAIMS/bmwhi-survey-2018) co-developed by Shawn Ross and Adela Sobotkova and Petra Janouchova at the FAIMS Project, Department of Ancient History, Macquarie University. It was implemented by Christian Nassif-Haynes, Department of Ancient History, Macquarie University. Module modifications were authored by Penny Crook, Department of Modern History, International Relations, and Politics, Macquarie University and Brian Ballsun-Stanton, Faculty of Arts, Macquarie University.
 
 ## Funding:
-Australian Research Council Linkage project **History, heritage and environmental change in a deindustrialised landscape**
+Australian Research Council Linkage project **History, heritage and environmental change in a deindustrialised landscape** (LP190100900 2020-2022).
 
 ## Date of release:
 (September 2022)
