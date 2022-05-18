@@ -1,7 +1,7 @@
 # Field Survey of the Blue Mountains World Heritage Area, NSW (FAIMS3)
 
 ## About this notebook:
-This module was created for the field survey of the **Nellies Glen** and **Ruined Castle** areas located in the Blue Mountains National Park as part of the Australian Research Council Linkage project **History, heritage and environmental change in a deindustrialised landscape** led by Associate Professor Tanya Evans, Macquarie University, Sydney, Australia, in partnership with the Blue Mountains World Heritage Institute, Lantern Heritage and Mountains Heritage. The project investigates a 19th-century shale-mining community in Jamison Valley through archaeological and archival research complemented by oral histories.
+This notebook was created for the field survey of the **Nellies Glen** and **Ruined Castle** areas located in the Blue Mountains National Park as part of the Australian Research Council Linkage project **History, heritage and environmental change in a deindustrialised landscape** led by Associate Professor Tanya Evans, Macquarie University, Sydney, Australia, in partnership with the Blue Mountains World Heritage Institute, Lantern Heritage and Mountains Heritage. The project investigates a 19th-century shale-mining community in Jamison Valley through archaeological and archival research complemented by oral histories.
 
 The notebook has been designed for field survey of the historic mining heritage site in the Jamison Valley, near Katoomba.
 
