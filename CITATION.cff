@@ -7,16 +7,16 @@ authors:
   - family-names: Ballsun-Stanton
     given-names: Brian
     orcid: https://orcid.org/0000-0003-4932-7912
-   - family-names: Ross
+  - family-names: Ross
     given-names: Shawn
     orcid: https://orcid.org/0000-0002-6492-9025
-      - family-names: Parkes
+  - family-names: Parkes
     given-names: Rebecca
     orcid: https://orcid.org/0000-0002-4808-4464
-      - family-names: Leslie
+   - family-names: Leslie
     given-names: Fiona
     orcid: https://orcid.org/0000-0002-8267-269X
-      - family-names: Lupack
+   - family-names: Lupack
     given-names: Susan
     orcid: https://orcid.org/0000-0002-7935-7613
 references:
